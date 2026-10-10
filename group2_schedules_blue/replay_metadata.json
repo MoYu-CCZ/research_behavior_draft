@@ -1,0 +1,62 @@
+[
+  {
+    "policy": "original_fixed",
+    "title": "常规固定作息",
+    "environment_seed": 4000000,
+    "training_seed": null,
+    "completed_steps": 68,
+    "completion": 1.0,
+    "on_time": true,
+    "cost": 49.209999999999994
+  },
+  {
+    "policy": "morning_dorm_fixed",
+    "title": "上午补觉",
+    "environment_seed": 4000000,
+    "training_seed": null,
+    "completed_steps": 72,
+    "completion": 1.0,
+    "on_time": true,
+    "cost": 57.14
+  },
+  {
+    "policy": "simple_no_afternoon_rest",
+    "title": "简单三天循环",
+    "environment_seed": 4000000,
+    "training_seed": null,
+    "completed_steps": 82,
+    "completion": 1.0,
+    "on_time": true,
+    "cost": 6.259999999999997
+  },
+  {
+    "policy": "new_ontime_fixed",
+    "title": "优化固定日程",
+    "environment_seed": 4000000,
+    "training_seed": null,
+    "completed_steps": 83,
+    "completion": 1.0,
+    "on_time": true,
+    "cost": 6.179999999999998
+  },
+  {
+    "policy": "new_warm_rl",
+    "title": "示范辅助Q-learning",
+    "environment_seed": 4000000,
+    "training_seed": 42,
+    "completed_steps": 83,
+    "completion": 1.0,
+    "on_time": true,
+    "cost": 6.179999999999998
+  },
+  {
+    "policy": "new_min_cost_fixed",
+    "title": "延期低成本循环",
+    "environment_seed": 4000000,
+    "training_seed": null,
+    "completed_steps": 104,
+    "completion": 1.0,
+    "on_time": false,
+    "cost": 5.639999999999997
+  }
+]
