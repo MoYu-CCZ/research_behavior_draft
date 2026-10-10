@@ -1,0 +1,4520 @@
+[
+  {
+    "policy": "original_fixed",
+    "title": "常规固定作息",
+    "rows": [
+      {
+        "step": 0,
+        "days": 0,
+        "energy": 100,
+        "mood": 60,
+        "mentor": 60,
+        "anxiety": 0,
+        "fatigue": 0
+      },
+      {
+        "step": 1,
+        "days": 0.3333333333333333,
+        "energy": 93,
+        "mood": 56,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 2,
+        "days": 0.6666666666666666,
+        "energy": 86,
+        "mood": 52,
+        "mentor": 66,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 3,
+        "days": 1.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 4,
+        "days": 1.3333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 5,
+        "days": 1.6666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 66,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 6,
+        "days": 2.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 7,
+        "days": 2.3333333333333335,
+        "energy": 93,
+        "mood": 46,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 8,
+        "days": 2.6666666666666665,
+        "energy": 86,
+        "mood": 42,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 9,
+        "days": 3.0,
+        "energy": 100,
+        "mood": 45,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.0
+      },
+      {
+        "step": 10,
+        "days": 3.3333333333333335,
+        "energy": 93,
+        "mood": 41,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.07
+      },
+      {
+        "step": 11,
+        "days": 3.6666666666666665,
+        "energy": 86,
+        "mood": 37,
+        "mentor": 72,
+        "anxiety": 3,
+        "fatigue": 0.14
+      },
+      {
+        "step": 12,
+        "days": 4.0,
+        "energy": 100,
+        "mood": 40,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.0
+      },
+      {
+        "step": 13,
+        "days": 4.333333333333333,
+        "energy": 93,
+        "mood": 36,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.07
+      },
+      {
+        "step": 14,
+        "days": 4.666666666666667,
+        "energy": 86,
+        "mood": 32,
+        "mentor": 72,
+        "anxiety": 3,
+        "fatigue": 0.14
+      },
+      {
+        "step": 15,
+        "days": 5.0,
+        "energy": 100,
+        "mood": 35,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.0
+      },
+      {
+        "step": 16,
+        "days": 5.333333333333333,
+        "energy": 93,
+        "mood": 31,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.07
+      },
+      {
+        "step": 17,
+        "days": 5.666666666666667,
+        "energy": 86,
+        "mood": 27,
+        "mentor": 72,
+        "anxiety": 3,
+        "fatigue": 0.14
+      },
+      {
+        "step": 18,
+        "days": 6.0,
+        "energy": 100,
+        "mood": 30,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.0
+      },
+      {
+        "step": 19,
+        "days": 6.333333333333333,
+        "energy": 93,
+        "mood": 26,
+        "mentor": 72,
+        "anxiety": 3,
+        "fatigue": 0.07
+      },
+      {
+        "step": 20,
+        "days": 6.666666666666667,
+        "energy": 86,
+        "mood": 22,
+        "mentor": 72,
+        "anxiety": 4,
+        "fatigue": 0.14
+      },
+      {
+        "step": 21,
+        "days": 7.0,
+        "energy": 100,
+        "mood": 25,
+        "mentor": 80,
+        "anxiety": 2,
+        "fatigue": 0.0
+      },
+      {
+        "step": 22,
+        "days": 7.333333333333333,
+        "energy": 93,
+        "mood": 21,
+        "mentor": 80,
+        "anxiety": 3,
+        "fatigue": 0.07
+      },
+      {
+        "step": 23,
+        "days": 7.666666666666667,
+        "energy": 86,
+        "mood": 17,
+        "mentor": 80,
+        "anxiety": 4,
+        "fatigue": 0.14
+      },
+      {
+        "step": 24,
+        "days": 8.0,
+        "energy": 100,
+        "mood": 20,
+        "mentor": 80,
+        "anxiety": 2,
+        "fatigue": 0.0
+      },
+      {
+        "step": 25,
+        "days": 8.333333333333334,
+        "energy": 93,
+        "mood": 16,
+        "mentor": 86,
+        "anxiety": 3,
+        "fatigue": 0.07
+      },
+      {
+        "step": 26,
+        "days": 8.666666666666666,
+        "energy": 86,
+        "mood": 12,
+        "mentor": 86,
+        "anxiety": 4,
+        "fatigue": 0.14
+      },
+      {
+        "step": 27,
+        "days": 9.0,
+        "energy": 100,
+        "mood": 15,
+        "mentor": 86,
+        "anxiety": 3,
+        "fatigue": 0.0
+      },
+      {
+        "step": 28,
+        "days": 9.333333333333334,
+        "energy": 93,
+        "mood": 11,
+        "mentor": 86,
+        "anxiety": 4,
+        "fatigue": 0.07
+      },
+      {
+        "step": 29,
+        "days": 9.666666666666666,
+        "energy": 86,
+        "mood": 7,
+        "mentor": 86,
+        "anxiety": 5,
+        "fatigue": 0.14
+      },
+      {
+        "step": 30,
+        "days": 10.0,
+        "energy": 100,
+        "mood": 10,
+        "mentor": 86,
+        "anxiety": 3,
+        "fatigue": 0.0
+      },
+      {
+        "step": 31,
+        "days": 10.333333333333334,
+        "energy": 93,
+        "mood": 6,
+        "mentor": 86,
+        "anxiety": 4,
+        "fatigue": 0.07
+      },
+      {
+        "step": 32,
+        "days": 10.666666666666666,
+        "energy": 86,
+        "mood": 2,
+        "mentor": 86,
+        "anxiety": 5,
+        "fatigue": 0.14
+      },
+      {
+        "step": 33,
+        "days": 11.0,
+        "energy": 100,
+        "mood": 5,
+        "mentor": 86,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 34,
+        "days": 11.333333333333334,
+        "energy": 93,
+        "mood": 1,
+        "mentor": 86,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 35,
+        "days": 11.666666666666666,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 86,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 36,
+        "days": 12.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 86,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 37,
+        "days": 12.333333333333334,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 86,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 38,
+        "days": 12.666666666666666,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 86,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 39,
+        "days": 13.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 86,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 40,
+        "days": 13.333333333333334,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 86,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 41,
+        "days": 13.666666666666666,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 86,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 42,
+        "days": 14.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 94,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 43,
+        "days": 14.333333333333334,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 94,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 44,
+        "days": 14.666666666666666,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 45,
+        "days": 15.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 100,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 46,
+        "days": 15.333333333333334,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 47,
+        "days": 15.666666666666666,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 48,
+        "days": 16.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 100,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 49,
+        "days": 16.333333333333332,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 50,
+        "days": 16.666666666666668,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 51,
+        "days": 17.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 100,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 52,
+        "days": 17.333333333333332,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 53,
+        "days": 17.666666666666668,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 54,
+        "days": 18.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 100,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 55,
+        "days": 18.333333333333332,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 56,
+        "days": 18.666666666666668,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 57,
+        "days": 19.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 100,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 58,
+        "days": 19.333333333333332,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 59,
+        "days": 19.666666666666668,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 60,
+        "days": 20.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 100,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 61,
+        "days": 20.333333333333332,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 62,
+        "days": 20.666666666666668,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 63,
+        "days": 21.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 100,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 64,
+        "days": 21.333333333333332,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 65,
+        "days": 21.666666666666668,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      },
+      {
+        "step": 66,
+        "days": 22.0,
+        "energy": 100,
+        "mood": 3,
+        "mentor": 100,
+        "anxiety": 4,
+        "fatigue": 0.0
+      },
+      {
+        "step": 67,
+        "days": 22.333333333333332,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 5,
+        "fatigue": 0.07
+      },
+      {
+        "step": 68,
+        "days": 22.666666666666668,
+        "energy": 86,
+        "mood": 0,
+        "mentor": 100,
+        "anxiety": 6,
+        "fatigue": 0.14
+      }
+    ]
+  },
+  {
+    "policy": "morning_dorm_fixed",
+    "title": "上午补觉",
+    "rows": [
+      {
+        "step": 0,
+        "days": 0,
+        "energy": 100,
+        "mood": 60,
+        "mentor": 60,
+        "anxiety": 0,
+        "fatigue": 0
+      },
+      {
+        "step": 1,
+        "days": 0.3333333333333333,
+        "energy": 100,
+        "mood": 61,
+        "mentor": 48,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 2,
+        "days": 0.6666666666666666,
+        "energy": 93,
+        "mood": 57,
+        "mentor": 48,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 3,
+        "days": 1.0,
+        "energy": 92,
+        "mood": 53,
+        "mentor": 48,
+        "anxiety": 3,
+        "fatigue": 0.08
+      },
+      {
+        "step": 4,
+        "days": 1.3333333333333333,
+        "energy": 100,
+        "mood": 54,
+        "mentor": 48,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 5,
+        "days": 1.6666666666666667,
+        "energy": 93,
+        "mood": 50,
+        "mentor": 48,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 6,
+        "days": 2.0,
+        "energy": 92,
+        "mood": 46,
+        "mentor": 48,
+        "anxiety": 4,
+        "fatigue": 0.08
+      },
+      {
+        "step": 7,
+        "days": 2.3333333333333335,
+        "energy": 100,
+        "mood": 47,
+        "mentor": 48,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 8,
+        "days": 2.6666666666666665,
+        "energy": 93,
+        "mood": 43,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 9,
+        "days": 3.0,
+        "energy": 92,
+        "mood": 39,
+        "mentor": 54,
+        "anxiety": 3,
+        "fatigue": 0.08
+      },
+      {
+        "step": 10,
+        "days": 3.3333333333333335,
+        "energy": 100,
+        "mood": 40,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 11,
+        "days": 3.6666666666666665,
+        "energy": 93,
+        "mood": 36,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 12,
+        "days": 4.0,
+        "energy": 92,
+        "mood": 32,
+        "mentor": 54,
+        "anxiety": 4,
+        "fatigue": 0.08
+      },
+      {
+        "step": 13,
+        "days": 4.333333333333333,
+        "energy": 100,
+        "mood": 33,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 14,
+        "days": 4.666666666666667,
+        "energy": 93,
+        "mood": 29,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 15,
+        "days": 5.0,
+        "energy": 92,
+        "mood": 25,
+        "mentor": 54,
+        "anxiety": 4,
+        "fatigue": 0.08
+      },
+      {
+        "step": 16,
+        "days": 5.333333333333333,
+        "energy": 100,
+        "mood": 26,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 17,
+        "days": 5.666666666666667,
+        "energy": 93,
+        "mood": 22,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 18,
+        "days": 6.0,
+        "energy": 92,
+        "mood": 18,
+        "mentor": 54,
+        "anxiety": 5,
+        "fatigue": 0.08
+      },
+      {
+        "step": 19,
+        "days": 6.333333333333333,
+        "energy": 100,
+        "mood": 19,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 20,
+        "days": 6.666666666666667,
+        "energy": 93,
+        "mood": 15,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 21,
+        "days": 7.0,
+        "energy": 92,
+        "mood": 11,
+        "mentor": 62,
+        "anxiety": 5,
+        "fatigue": 0.08
+      },
+      {
+        "step": 22,
+        "days": 7.333333333333333,
+        "energy": 100,
+        "mood": 12,
+        "mentor": 62,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 23,
+        "days": 7.666666666666667,
+        "energy": 93,
+        "mood": 8,
+        "mentor": 62,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 24,
+        "days": 8.0,
+        "energy": 92,
+        "mood": 4,
+        "mentor": 62,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 25,
+        "days": 8.333333333333334,
+        "energy": 100,
+        "mood": 5,
+        "mentor": 50,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 26,
+        "days": 8.666666666666666,
+        "energy": 93,
+        "mood": 1,
+        "mentor": 50,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 27,
+        "days": 9.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 28,
+        "days": 9.333333333333334,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 50,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 29,
+        "days": 9.666666666666666,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 30,
+        "days": 10.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 31,
+        "days": 10.333333333333334,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 50,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 32,
+        "days": 10.666666666666666,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 33,
+        "days": 11.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 34,
+        "days": 11.333333333333334,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 50,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 35,
+        "days": 11.666666666666666,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 36,
+        "days": 12.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 37,
+        "days": 12.333333333333334,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 50,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 38,
+        "days": 12.666666666666666,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 39,
+        "days": 13.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 40,
+        "days": 13.333333333333334,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 50,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 41,
+        "days": 13.666666666666666,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 50,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 42,
+        "days": 14.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 58,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 43,
+        "days": 14.333333333333334,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 58,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 44,
+        "days": 14.666666666666666,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 64,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 45,
+        "days": 15.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 64,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 46,
+        "days": 15.333333333333334,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 52,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 47,
+        "days": 15.666666666666666,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 52,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 48,
+        "days": 16.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 52,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 49,
+        "days": 16.333333333333332,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 52,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 50,
+        "days": 16.666666666666668,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 52,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 51,
+        "days": 17.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 52,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 52,
+        "days": 17.333333333333332,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 52,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 53,
+        "days": 17.666666666666668,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 58,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 54,
+        "days": 18.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 58,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 55,
+        "days": 18.333333333333332,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 58,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 56,
+        "days": 18.666666666666668,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 58,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 57,
+        "days": 19.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 58,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 58,
+        "days": 19.333333333333332,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 58,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 59,
+        "days": 19.666666666666668,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 58,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 60,
+        "days": 20.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 58,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 61,
+        "days": 20.333333333333332,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 58,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 62,
+        "days": 20.666666666666668,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 58,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 63,
+        "days": 21.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 66,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 64,
+        "days": 21.333333333333332,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 65,
+        "days": 21.666666666666668,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 66,
+        "days": 22.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 66,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 67,
+        "days": 22.333333333333332,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 68,
+        "days": 22.666666666666668,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 69,
+        "days": 23.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 54,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 70,
+        "days": 23.333333333333332,
+        "energy": 100,
+        "mood": 1,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 71,
+        "days": 23.666666666666668,
+        "energy": 93,
+        "mood": 0,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 72,
+        "days": 24.0,
+        "energy": 92,
+        "mood": 0,
+        "mentor": 54,
+        "anxiety": 6,
+        "fatigue": 0.08
+      }
+    ]
+  },
+  {
+    "policy": "simple_no_afternoon_rest",
+    "title": "简单三天循环",
+    "rows": [
+      {
+        "step": 0,
+        "days": 0,
+        "energy": 100,
+        "mood": 60,
+        "mentor": 60,
+        "anxiety": 0,
+        "fatigue": 0
+      },
+      {
+        "step": 1,
+        "days": 0.3333333333333333,
+        "energy": 93,
+        "mood": 56,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 2,
+        "days": 0.6666666666666666,
+        "energy": 86,
+        "mood": 52,
+        "mentor": 66,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 3,
+        "days": 1.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 4,
+        "days": 1.3333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 5,
+        "days": 1.6666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 66,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 6,
+        "days": 2.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 7,
+        "days": 2.3333333333333335,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 8,
+        "days": 2.6666666666666665,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 9,
+        "days": 3.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 10,
+        "days": 3.3333333333333335,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 11,
+        "days": 3.6666666666666665,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 12,
+        "days": 4.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 13,
+        "days": 4.333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 14,
+        "days": 4.666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 15,
+        "days": 5.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 16,
+        "days": 5.333333333333333,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 17,
+        "days": 5.666666666666667,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 18,
+        "days": 6.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 19,
+        "days": 6.333333333333333,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 20,
+        "days": 6.666666666666667,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 21,
+        "days": 7.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 80,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 22,
+        "days": 7.333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 80,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 23,
+        "days": 7.666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 80,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 24,
+        "days": 8.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 80,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 25,
+        "days": 8.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 26,
+        "days": 8.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 27,
+        "days": 9.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 28,
+        "days": 9.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 29,
+        "days": 9.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 30,
+        "days": 10.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 31,
+        "days": 10.333333333333334,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 32,
+        "days": 10.666666666666666,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 33,
+        "days": 11.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 34,
+        "days": 11.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 35,
+        "days": 11.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 36,
+        "days": 12.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 37,
+        "days": 12.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 38,
+        "days": 12.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 39,
+        "days": 13.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 40,
+        "days": 13.333333333333334,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 41,
+        "days": 13.666666666666666,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 42,
+        "days": 14.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 76,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 43,
+        "days": 14.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 76,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 44,
+        "days": 14.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 82,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 45,
+        "days": 15.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 82,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 46,
+        "days": 15.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 88,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 47,
+        "days": 15.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 88,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 48,
+        "days": 16.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 49,
+        "days": 16.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 88,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 50,
+        "days": 16.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 88,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 51,
+        "days": 17.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 52,
+        "days": 17.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 53,
+        "days": 17.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 54,
+        "days": 18.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 55,
+        "days": 18.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 56,
+        "days": 18.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 94,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 57,
+        "days": 19.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 58,
+        "days": 19.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 59,
+        "days": 19.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 94,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 60,
+        "days": 20.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 61,
+        "days": 20.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 62,
+        "days": 20.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 63,
+        "days": 21.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 64,
+        "days": 21.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 65,
+        "days": 21.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 66,
+        "days": 22.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 67,
+        "days": 22.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 68,
+        "days": 22.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 69,
+        "days": 23.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 70,
+        "days": 23.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 71,
+        "days": 23.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 72,
+        "days": 24.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 73,
+        "days": 24.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 74,
+        "days": 24.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 75,
+        "days": 25.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 76,
+        "days": 25.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 77,
+        "days": 25.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 78,
+        "days": 26.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 79,
+        "days": 26.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 80,
+        "days": 26.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 81,
+        "days": 27.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 82,
+        "days": 27.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.1
+      }
+    ]
+  },
+  {
+    "policy": "new_ontime_fixed",
+    "title": "优化固定日程",
+    "rows": [
+      {
+        "step": 0,
+        "days": 0,
+        "energy": 100,
+        "mood": 60,
+        "mentor": 60,
+        "anxiety": 0,
+        "fatigue": 0
+      },
+      {
+        "step": 1,
+        "days": 0.3333333333333333,
+        "energy": 93,
+        "mood": 56,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 2,
+        "days": 0.6666666666666666,
+        "energy": 86,
+        "mood": 52,
+        "mentor": 66,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 3,
+        "days": 1.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 4,
+        "days": 1.3333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 5,
+        "days": 1.6666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 66,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 6,
+        "days": 2.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 7,
+        "days": 2.3333333333333335,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 8,
+        "days": 2.6666666666666665,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 9,
+        "days": 3.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 10,
+        "days": 3.3333333333333335,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 11,
+        "days": 3.6666666666666665,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 12,
+        "days": 4.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 13,
+        "days": 4.333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 14,
+        "days": 4.666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 15,
+        "days": 5.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 16,
+        "days": 5.333333333333333,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 17,
+        "days": 5.666666666666667,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 18,
+        "days": 6.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 19,
+        "days": 6.333333333333333,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 20,
+        "days": 6.666666666666667,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 21,
+        "days": 7.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 80,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 22,
+        "days": 7.333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 80,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 23,
+        "days": 7.666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 80,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 24,
+        "days": 8.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 80,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 25,
+        "days": 8.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 26,
+        "days": 8.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 27,
+        "days": 9.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 28,
+        "days": 9.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 29,
+        "days": 9.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 30,
+        "days": 10.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 31,
+        "days": 10.333333333333334,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 32,
+        "days": 10.666666666666666,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 33,
+        "days": 11.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 34,
+        "days": 11.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 35,
+        "days": 11.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 36,
+        "days": 12.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 37,
+        "days": 12.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 38,
+        "days": 12.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 39,
+        "days": 13.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 40,
+        "days": 13.333333333333334,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 41,
+        "days": 13.666666666666666,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 42,
+        "days": 14.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 76,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 43,
+        "days": 14.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 76,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 44,
+        "days": 14.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 82,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 45,
+        "days": 15.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 82,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 46,
+        "days": 15.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 88,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 47,
+        "days": 15.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 88,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 48,
+        "days": 16.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 49,
+        "days": 16.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 88,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 50,
+        "days": 16.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 88,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 51,
+        "days": 17.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 52,
+        "days": 17.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 53,
+        "days": 17.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 54,
+        "days": 18.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 55,
+        "days": 18.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 56,
+        "days": 18.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 94,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 57,
+        "days": 19.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 58,
+        "days": 19.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 59,
+        "days": 19.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 94,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 60,
+        "days": 20.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 61,
+        "days": 20.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 62,
+        "days": 20.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 63,
+        "days": 21.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 64,
+        "days": 21.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 65,
+        "days": 21.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 66,
+        "days": 22.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 67,
+        "days": 22.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 68,
+        "days": 22.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 69,
+        "days": 23.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 70,
+        "days": 23.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 71,
+        "days": 23.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 72,
+        "days": 24.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 73,
+        "days": 24.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 74,
+        "days": 24.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 75,
+        "days": 25.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 76,
+        "days": 25.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 77,
+        "days": 25.666666666666668,
+        "energy": 99,
+        "mood": 51,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.01
+      },
+      {
+        "step": 78,
+        "days": 26.0,
+        "energy": 98,
+        "mood": 47,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.02
+      },
+      {
+        "step": 79,
+        "days": 26.333333333333332,
+        "energy": 96,
+        "mood": 54,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.04
+      },
+      {
+        "step": 80,
+        "days": 26.666666666666668,
+        "energy": 89,
+        "mood": 50,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.11
+      },
+      {
+        "step": 81,
+        "days": 27.0,
+        "energy": 95,
+        "mood": 57,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.05
+      },
+      {
+        "step": 82,
+        "days": 27.333333333333332,
+        "energy": 100,
+        "mood": 58,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 83,
+        "days": 27.666666666666668,
+        "energy": 93,
+        "mood": 54,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.07
+      }
+    ]
+  },
+  {
+    "policy": "new_warm_rl",
+    "title": "示范辅助Q-learning",
+    "rows": [
+      {
+        "step": 0,
+        "days": 0,
+        "energy": 100,
+        "mood": 60,
+        "mentor": 60,
+        "anxiety": 0,
+        "fatigue": 0
+      },
+      {
+        "step": 1,
+        "days": 0.3333333333333333,
+        "energy": 93,
+        "mood": 56,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 2,
+        "days": 0.6666666666666666,
+        "energy": 86,
+        "mood": 52,
+        "mentor": 66,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 3,
+        "days": 1.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 4,
+        "days": 1.3333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 66,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 5,
+        "days": 1.6666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 66,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 6,
+        "days": 2.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 7,
+        "days": 2.3333333333333335,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 66,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 8,
+        "days": 2.6666666666666665,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 9,
+        "days": 3.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 10,
+        "days": 3.3333333333333335,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 11,
+        "days": 3.6666666666666665,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 12,
+        "days": 4.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 13,
+        "days": 4.333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 14,
+        "days": 4.666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 15,
+        "days": 5.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 16,
+        "days": 5.333333333333333,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 17,
+        "days": 5.666666666666667,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 18,
+        "days": 6.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 72,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 19,
+        "days": 6.333333333333333,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 72,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 20,
+        "days": 6.666666666666667,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 72,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 21,
+        "days": 7.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 80,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 22,
+        "days": 7.333333333333333,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 80,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 23,
+        "days": 7.666666666666667,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 80,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 24,
+        "days": 8.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 80,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 25,
+        "days": 8.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 26,
+        "days": 8.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 27,
+        "days": 9.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 28,
+        "days": 9.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 29,
+        "days": 9.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 30,
+        "days": 10.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 31,
+        "days": 10.333333333333334,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 32,
+        "days": 10.666666666666666,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 33,
+        "days": 11.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 34,
+        "days": 11.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 35,
+        "days": 11.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 36,
+        "days": 12.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 37,
+        "days": 12.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 38,
+        "days": 12.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 39,
+        "days": 13.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 68,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 40,
+        "days": 13.333333333333334,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 68,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 41,
+        "days": 13.666666666666666,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 68,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 42,
+        "days": 14.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 76,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 43,
+        "days": 14.333333333333334,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 76,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 44,
+        "days": 14.666666666666666,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 82,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 45,
+        "days": 15.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 82,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 46,
+        "days": 15.333333333333334,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 88,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 47,
+        "days": 15.666666666666666,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 88,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 48,
+        "days": 16.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 49,
+        "days": 16.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 88,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 50,
+        "days": 16.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 88,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 51,
+        "days": 17.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 52,
+        "days": 17.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 88,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 53,
+        "days": 17.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 54,
+        "days": 18.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 55,
+        "days": 18.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 56,
+        "days": 18.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 94,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 57,
+        "days": 19.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 58,
+        "days": 19.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 59,
+        "days": 19.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 94,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 60,
+        "days": 20.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 61,
+        "days": 20.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 94,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 62,
+        "days": 20.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 94,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 63,
+        "days": 21.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 64,
+        "days": 21.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 65,
+        "days": 21.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 66,
+        "days": 22.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 67,
+        "days": 22.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 68,
+        "days": 22.666666666666668,
+        "energy": 86,
+        "mood": 47,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.14
+      },
+      {
+        "step": 69,
+        "days": 23.0,
+        "energy": 100,
+        "mood": 50,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 70,
+        "days": 23.333333333333332,
+        "energy": 98,
+        "mood": 57,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.02
+      },
+      {
+        "step": 71,
+        "days": 23.666666666666668,
+        "energy": 91,
+        "mood": 53,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.09
+      },
+      {
+        "step": 72,
+        "days": 24.0,
+        "energy": 97,
+        "mood": 60,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.03
+      },
+      {
+        "step": 73,
+        "days": 24.333333333333332,
+        "energy": 90,
+        "mood": 56,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.1
+      },
+      {
+        "step": 74,
+        "days": 24.666666666666668,
+        "energy": 83,
+        "mood": 52,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.17
+      },
+      {
+        "step": 75,
+        "days": 25.0,
+        "energy": 100,
+        "mood": 55,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 76,
+        "days": 25.333333333333332,
+        "energy": 93,
+        "mood": 51,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 77,
+        "days": 25.666666666666668,
+        "energy": 99,
+        "mood": 51,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.01
+      },
+      {
+        "step": 78,
+        "days": 26.0,
+        "energy": 98,
+        "mood": 47,
+        "mentor": 100,
+        "anxiety": 2,
+        "fatigue": 0.02
+      },
+      {
+        "step": 79,
+        "days": 26.333333333333332,
+        "energy": 96,
+        "mood": 54,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.04
+      },
+      {
+        "step": 80,
+        "days": 26.666666666666668,
+        "energy": 89,
+        "mood": 50,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.11
+      },
+      {
+        "step": 81,
+        "days": 27.0,
+        "energy": 95,
+        "mood": 57,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.05
+      },
+      {
+        "step": 82,
+        "days": 27.333333333333332,
+        "energy": 100,
+        "mood": 58,
+        "mentor": 100,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 83,
+        "days": 27.666666666666668,
+        "energy": 93,
+        "mood": 54,
+        "mentor": 100,
+        "anxiety": 1,
+        "fatigue": 0.07
+      }
+    ]
+  },
+  {
+    "policy": "new_min_cost_fixed",
+    "title": "延期低成本循环",
+    "rows": [
+      {
+        "step": 0,
+        "days": 0,
+        "energy": 100,
+        "mood": 60,
+        "mentor": 60,
+        "anxiety": 0,
+        "fatigue": 0
+      },
+      {
+        "step": 1,
+        "days": 0.3333333333333333,
+        "energy": 100,
+        "mood": 61,
+        "mentor": 48,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 2,
+        "days": 0.6666666666666666,
+        "energy": 93,
+        "mood": 57,
+        "mentor": 48,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 3,
+        "days": 1.0,
+        "energy": 99,
+        "mood": 64,
+        "mentor": 48,
+        "anxiety": 1,
+        "fatigue": 0.01
+      },
+      {
+        "step": 4,
+        "days": 1.3333333333333333,
+        "energy": 100,
+        "mood": 65,
+        "mentor": 48,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 5,
+        "days": 1.6666666666666667,
+        "energy": 93,
+        "mood": 61,
+        "mentor": 48,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 6,
+        "days": 2.0,
+        "energy": 99,
+        "mood": 68,
+        "mentor": 48,
+        "anxiety": 1,
+        "fatigue": 0.01
+      },
+      {
+        "step": 7,
+        "days": 2.3333333333333335,
+        "energy": 100,
+        "mood": 69,
+        "mentor": 48,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 8,
+        "days": 2.6666666666666665,
+        "energy": 93,
+        "mood": 65,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 9,
+        "days": 3.0,
+        "energy": 92,
+        "mood": 61,
+        "mentor": 54,
+        "anxiety": 2,
+        "fatigue": 0.08
+      },
+      {
+        "step": 10,
+        "days": 3.3333333333333335,
+        "energy": 100,
+        "mood": 62,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 11,
+        "days": 3.6666666666666665,
+        "energy": 93,
+        "mood": 58,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 12,
+        "days": 4.0,
+        "energy": 99,
+        "mood": 65,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.01
+      },
+      {
+        "step": 13,
+        "days": 4.333333333333333,
+        "energy": 100,
+        "mood": 66,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 14,
+        "days": 4.666666666666667,
+        "energy": 93,
+        "mood": 62,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 15,
+        "days": 5.0,
+        "energy": 99,
+        "mood": 69,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.01
+      },
+      {
+        "step": 16,
+        "days": 5.333333333333333,
+        "energy": 100,
+        "mood": 70,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 17,
+        "days": 5.666666666666667,
+        "energy": 93,
+        "mood": 66,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 18,
+        "days": 6.0,
+        "energy": 92,
+        "mood": 62,
+        "mentor": 54,
+        "anxiety": 2,
+        "fatigue": 0.08
+      },
+      {
+        "step": 19,
+        "days": 6.333333333333333,
+        "energy": 100,
+        "mood": 63,
+        "mentor": 54,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 20,
+        "days": 6.666666666666667,
+        "energy": 93,
+        "mood": 59,
+        "mentor": 54,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 21,
+        "days": 7.0,
+        "energy": 99,
+        "mood": 66,
+        "mentor": 40,
+        "anxiety": 3,
+        "fatigue": 0.01
+      },
+      {
+        "step": 22,
+        "days": 7.333333333333333,
+        "energy": 100,
+        "mood": 67,
+        "mentor": 40,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 23,
+        "days": 7.666666666666667,
+        "energy": 93,
+        "mood": 63,
+        "mentor": 40,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 24,
+        "days": 8.0,
+        "energy": 99,
+        "mood": 70,
+        "mentor": 40,
+        "anxiety": 1,
+        "fatigue": 0.01
+      },
+      {
+        "step": 25,
+        "days": 8.333333333333334,
+        "energy": 100,
+        "mood": 71,
+        "mentor": 28,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 26,
+        "days": 8.666666666666666,
+        "energy": 93,
+        "mood": 67,
+        "mentor": 28,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 27,
+        "days": 9.0,
+        "energy": 92,
+        "mood": 63,
+        "mentor": 28,
+        "anxiety": 4,
+        "fatigue": 0.08
+      },
+      {
+        "step": 28,
+        "days": 9.333333333333334,
+        "energy": 100,
+        "mood": 64,
+        "mentor": 28,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 29,
+        "days": 9.666666666666666,
+        "energy": 93,
+        "mood": 60,
+        "mentor": 28,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 30,
+        "days": 10.0,
+        "energy": 99,
+        "mood": 67,
+        "mentor": 28,
+        "anxiety": 2,
+        "fatigue": 0.01
+      },
+      {
+        "step": 31,
+        "days": 10.333333333333334,
+        "energy": 100,
+        "mood": 68,
+        "mentor": 28,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 32,
+        "days": 10.666666666666666,
+        "energy": 93,
+        "mood": 64,
+        "mentor": 28,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 33,
+        "days": 11.0,
+        "energy": 99,
+        "mood": 71,
+        "mentor": 28,
+        "anxiety": 2,
+        "fatigue": 0.01
+      },
+      {
+        "step": 34,
+        "days": 11.333333333333334,
+        "energy": 100,
+        "mood": 72,
+        "mentor": 28,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 35,
+        "days": 11.666666666666666,
+        "energy": 93,
+        "mood": 68,
+        "mentor": 28,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 36,
+        "days": 12.0,
+        "energy": 92,
+        "mood": 64,
+        "mentor": 28,
+        "anxiety": 4,
+        "fatigue": 0.08
+      },
+      {
+        "step": 37,
+        "days": 12.333333333333334,
+        "energy": 100,
+        "mood": 65,
+        "mentor": 28,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 38,
+        "days": 12.666666666666666,
+        "energy": 93,
+        "mood": 61,
+        "mentor": 28,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 39,
+        "days": 13.0,
+        "energy": 99,
+        "mood": 68,
+        "mentor": 28,
+        "anxiety": 2,
+        "fatigue": 0.01
+      },
+      {
+        "step": 40,
+        "days": 13.333333333333334,
+        "energy": 100,
+        "mood": 69,
+        "mentor": 28,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 41,
+        "days": 13.666666666666666,
+        "energy": 93,
+        "mood": 65,
+        "mentor": 28,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 42,
+        "days": 14.0,
+        "energy": 99,
+        "mood": 72,
+        "mentor": 14,
+        "anxiety": 7,
+        "fatigue": 0.01
+      },
+      {
+        "step": 43,
+        "days": 14.333333333333334,
+        "energy": 100,
+        "mood": 73,
+        "mentor": 14,
+        "anxiety": 1,
+        "fatigue": 0.0
+      },
+      {
+        "step": 44,
+        "days": 14.666666666666666,
+        "energy": 93,
+        "mood": 69,
+        "mentor": 20,
+        "anxiety": 2,
+        "fatigue": 0.07
+      },
+      {
+        "step": 45,
+        "days": 15.0,
+        "energy": 92,
+        "mood": 65,
+        "mentor": 20,
+        "anxiety": 5,
+        "fatigue": 0.08
+      },
+      {
+        "step": 46,
+        "days": 15.333333333333334,
+        "energy": 100,
+        "mood": 66,
+        "mentor": 8,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 47,
+        "days": 15.666666666666666,
+        "energy": 93,
+        "mood": 62,
+        "mentor": 8,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 48,
+        "days": 16.0,
+        "energy": 99,
+        "mood": 69,
+        "mentor": 8,
+        "anxiety": 4,
+        "fatigue": 0.01
+      },
+      {
+        "step": 49,
+        "days": 16.333333333333332,
+        "energy": 100,
+        "mood": 70,
+        "mentor": 8,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 50,
+        "days": 16.666666666666668,
+        "energy": 93,
+        "mood": 66,
+        "mentor": 8,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 51,
+        "days": 17.0,
+        "energy": 99,
+        "mood": 73,
+        "mentor": 8,
+        "anxiety": 4,
+        "fatigue": 0.01
+      },
+      {
+        "step": 52,
+        "days": 17.333333333333332,
+        "energy": 100,
+        "mood": 74,
+        "mentor": 8,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 53,
+        "days": 17.666666666666668,
+        "energy": 93,
+        "mood": 70,
+        "mentor": 14,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 54,
+        "days": 18.0,
+        "energy": 92,
+        "mood": 66,
+        "mentor": 14,
+        "anxiety": 5,
+        "fatigue": 0.08
+      },
+      {
+        "step": 55,
+        "days": 18.333333333333332,
+        "energy": 100,
+        "mood": 67,
+        "mentor": 14,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 56,
+        "days": 18.666666666666668,
+        "energy": 93,
+        "mood": 63,
+        "mentor": 14,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 57,
+        "days": 19.0,
+        "energy": 99,
+        "mood": 70,
+        "mentor": 14,
+        "anxiety": 3,
+        "fatigue": 0.01
+      },
+      {
+        "step": 58,
+        "days": 19.333333333333332,
+        "energy": 100,
+        "mood": 71,
+        "mentor": 14,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 59,
+        "days": 19.666666666666668,
+        "energy": 93,
+        "mood": 67,
+        "mentor": 14,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 60,
+        "days": 20.0,
+        "energy": 99,
+        "mood": 74,
+        "mentor": 14,
+        "anxiety": 4,
+        "fatigue": 0.01
+      },
+      {
+        "step": 61,
+        "days": 20.333333333333332,
+        "energy": 100,
+        "mood": 75,
+        "mentor": 14,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 62,
+        "days": 20.666666666666668,
+        "energy": 93,
+        "mood": 71,
+        "mentor": 14,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 63,
+        "days": 21.0,
+        "energy": 92,
+        "mood": 67,
+        "mentor": 0,
+        "anxiety": 11,
+        "fatigue": 0.08
+      },
+      {
+        "step": 64,
+        "days": 21.333333333333332,
+        "energy": 100,
+        "mood": 68,
+        "mentor": 0,
+        "anxiety": 5,
+        "fatigue": 0.0
+      },
+      {
+        "step": 65,
+        "days": 21.666666666666668,
+        "energy": 93,
+        "mood": 64,
+        "mentor": 0,
+        "anxiety": 6,
+        "fatigue": 0.07
+      },
+      {
+        "step": 66,
+        "days": 22.0,
+        "energy": 99,
+        "mood": 71,
+        "mentor": 0,
+        "anxiety": 5,
+        "fatigue": 0.01
+      },
+      {
+        "step": 67,
+        "days": 22.333333333333332,
+        "energy": 100,
+        "mood": 72,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 68,
+        "days": 22.666666666666668,
+        "energy": 93,
+        "mood": 68,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 69,
+        "days": 23.0,
+        "energy": 99,
+        "mood": 75,
+        "mentor": 0,
+        "anxiety": 5,
+        "fatigue": 0.01
+      },
+      {
+        "step": 70,
+        "days": 23.333333333333332,
+        "energy": 100,
+        "mood": 76,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 71,
+        "days": 23.666666666666668,
+        "energy": 93,
+        "mood": 72,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 72,
+        "days": 24.0,
+        "energy": 92,
+        "mood": 68,
+        "mentor": 0,
+        "anxiety": 7,
+        "fatigue": 0.08
+      },
+      {
+        "step": 73,
+        "days": 24.333333333333332,
+        "energy": 100,
+        "mood": 69,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.0
+      },
+      {
+        "step": 74,
+        "days": 24.666666666666668,
+        "energy": 93,
+        "mood": 65,
+        "mentor": 6,
+        "anxiety": 2,
+        "fatigue": 0.07
+      },
+      {
+        "step": 75,
+        "days": 25.0,
+        "energy": 99,
+        "mood": 72,
+        "mentor": 6,
+        "anxiety": 5,
+        "fatigue": 0.01
+      },
+      {
+        "step": 76,
+        "days": 25.333333333333332,
+        "energy": 100,
+        "mood": 73,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 77,
+        "days": 25.666666666666668,
+        "energy": 93,
+        "mood": 69,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 78,
+        "days": 26.0,
+        "energy": 99,
+        "mood": 76,
+        "mentor": 0,
+        "anxiety": 5,
+        "fatigue": 0.01
+      },
+      {
+        "step": 79,
+        "days": 26.333333333333332,
+        "energy": 100,
+        "mood": 77,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 80,
+        "days": 26.666666666666668,
+        "energy": 93,
+        "mood": 73,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 81,
+        "days": 27.0,
+        "energy": 92,
+        "mood": 69,
+        "mentor": 0,
+        "anxiety": 7,
+        "fatigue": 0.08
+      },
+      {
+        "step": 82,
+        "days": 27.333333333333332,
+        "energy": 100,
+        "mood": 70,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.0
+      },
+      {
+        "step": 83,
+        "days": 27.666666666666668,
+        "energy": 93,
+        "mood": 66,
+        "mentor": 0,
+        "anxiety": 2,
+        "fatigue": 0.07
+      },
+      {
+        "step": 84,
+        "days": 28.0,
+        "energy": 99,
+        "mood": 73,
+        "mentor": 0,
+        "anxiety": 13,
+        "fatigue": 0.01
+      },
+      {
+        "step": 85,
+        "days": 28.333333333333332,
+        "energy": 100,
+        "mood": 72,
+        "mentor": 0,
+        "anxiety": 7,
+        "fatigue": 0.0
+      },
+      {
+        "step": 86,
+        "days": 28.666666666666668,
+        "energy": 93,
+        "mood": 68,
+        "mentor": 0,
+        "anxiety": 8,
+        "fatigue": 0.07
+      },
+      {
+        "step": 87,
+        "days": 29.0,
+        "energy": 99,
+        "mood": 75,
+        "mentor": 0,
+        "anxiety": 5,
+        "fatigue": 0.01
+      },
+      {
+        "step": 88,
+        "days": 29.333333333333332,
+        "energy": 100,
+        "mood": 74,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 89,
+        "days": 29.666666666666668,
+        "energy": 93,
+        "mood": 70,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 90,
+        "days": 30.0,
+        "energy": 92,
+        "mood": 66,
+        "mentor": 0,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 91,
+        "days": 30.333333333333332,
+        "energy": 100,
+        "mood": 65,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 92,
+        "days": 30.666666666666668,
+        "energy": 93,
+        "mood": 61,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 93,
+        "days": 31.0,
+        "energy": 99,
+        "mood": 68,
+        "mentor": 0,
+        "anxiety": 4,
+        "fatigue": 0.01
+      },
+      {
+        "step": 94,
+        "days": 31.333333333333332,
+        "energy": 100,
+        "mood": 67,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 95,
+        "days": 31.666666666666668,
+        "energy": 93,
+        "mood": 63,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 96,
+        "days": 32.0,
+        "energy": 99,
+        "mood": 70,
+        "mentor": 0,
+        "anxiety": 4,
+        "fatigue": 0.01
+      },
+      {
+        "step": 97,
+        "days": 32.333333333333336,
+        "energy": 100,
+        "mood": 69,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 98,
+        "days": 32.666666666666664,
+        "energy": 93,
+        "mood": 65,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 99,
+        "days": 33.0,
+        "energy": 92,
+        "mood": 61,
+        "mentor": 0,
+        "anxiety": 6,
+        "fatigue": 0.08
+      },
+      {
+        "step": 100,
+        "days": 33.333333333333336,
+        "energy": 100,
+        "mood": 60,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 101,
+        "days": 33.666666666666664,
+        "energy": 93,
+        "mood": 56,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      },
+      {
+        "step": 102,
+        "days": 34.0,
+        "energy": 99,
+        "mood": 63,
+        "mentor": 0,
+        "anxiety": 4,
+        "fatigue": 0.01
+      },
+      {
+        "step": 103,
+        "days": 34.333333333333336,
+        "energy": 100,
+        "mood": 62,
+        "mentor": 0,
+        "anxiety": 0,
+        "fatigue": 0.0
+      },
+      {
+        "step": 104,
+        "days": 34.666666666666664,
+        "energy": 93,
+        "mood": 58,
+        "mentor": 0,
+        "anxiety": 1,
+        "fatigue": 0.07
+      }
+    ]
+  }
+]

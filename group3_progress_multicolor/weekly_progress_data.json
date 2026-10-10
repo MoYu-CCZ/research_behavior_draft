@@ -1,0 +1,193 @@
+[
+  {
+    "policy": "original_fixed",
+    "title": "常规固定作息",
+    "samples": [
+      {
+        "step": 0,
+        "week": 0.0,
+        "completed_work": 0.0
+      },
+      {
+        "step": 21,
+        "week": 1.0,
+        "completed_work": 14.7
+      },
+      {
+        "step": 42,
+        "week": 2.0,
+        "completed_work": 29.4
+      },
+      {
+        "step": 63,
+        "week": 3.0,
+        "completed_work": 44.1
+      },
+      {
+        "step": 68,
+        "week": 3.238095238095238,
+        "completed_work": 48.0
+      }
+    ]
+  },
+  {
+    "policy": "morning_dorm_fixed",
+    "title": "上午补觉",
+    "samples": [
+      {
+        "step": 0,
+        "week": 0.0,
+        "completed_work": 0.0
+      },
+      {
+        "step": 21,
+        "week": 1.0,
+        "completed_work": 14.0
+      },
+      {
+        "step": 42,
+        "week": 2.0,
+        "completed_work": 28.0
+      },
+      {
+        "step": 63,
+        "week": 3.0,
+        "completed_work": 42.0
+      },
+      {
+        "step": 72,
+        "week": 3.4285714285714284,
+        "completed_work": 48.0
+      }
+    ]
+  },
+  {
+    "policy": "simple_no_afternoon_rest",
+    "title": "简单三天循环",
+    "samples": [
+      {
+        "step": 0,
+        "week": 0.0,
+        "completed_work": 0.0
+      },
+      {
+        "step": 21,
+        "week": 1.0,
+        "completed_work": 12.7
+      },
+      {
+        "step": 42,
+        "week": 2.0,
+        "completed_work": 25.4
+      },
+      {
+        "step": 63,
+        "week": 3.0,
+        "completed_work": 37.1
+      },
+      {
+        "step": 82,
+        "week": 3.9047619047619047,
+        "completed_work": 48.0
+      }
+    ]
+  },
+  {
+    "policy": "new_ontime_fixed",
+    "title": "优化固定日程",
+    "samples": [
+      {
+        "step": 0,
+        "week": 0.0,
+        "completed_work": 0.0
+      },
+      {
+        "step": 21,
+        "week": 1.0,
+        "completed_work": 12.7
+      },
+      {
+        "step": 42,
+        "week": 2.0,
+        "completed_work": 25.4
+      },
+      {
+        "step": 63,
+        "week": 3.0,
+        "completed_work": 37.1
+      },
+      {
+        "step": 83,
+        "week": 3.9523809523809526,
+        "completed_work": 48.0
+      }
+    ]
+  },
+  {
+    "policy": "new_warm_rl",
+    "title": "示范辅助Q-learning",
+    "samples": [
+      {
+        "step": 0,
+        "week": 0.0,
+        "completed_work": 0.0
+      },
+      {
+        "step": 21,
+        "week": 1.0,
+        "completed_work": 12.7
+      },
+      {
+        "step": 42,
+        "week": 2.0,
+        "completed_work": 25.4
+      },
+      {
+        "step": 63,
+        "week": 3.0,
+        "completed_work": 37.1
+      },
+      {
+        "step": 83,
+        "week": 3.9523809523809526,
+        "completed_work": 48.0
+      }
+    ]
+  },
+  {
+    "policy": "new_min_cost_fixed",
+    "title": "延期低成本循环",
+    "samples": [
+      {
+        "step": 0,
+        "week": 0.0,
+        "completed_work": 0.0
+      },
+      {
+        "step": 21,
+        "week": 1.0,
+        "completed_work": 9.5
+      },
+      {
+        "step": 42,
+        "week": 2.0,
+        "completed_work": 19.0
+      },
+      {
+        "step": 63,
+        "week": 3.0,
+        "completed_work": 29.4
+      },
+      {
+        "step": 84,
+        "week": 4.0,
+        "completed_work": 38.9
+      },
+      {
+        "step": 104,
+        "week": 4.9523809523809526,
+        "completed_work": 48.0
+      }
+    ]
+  }
+]
