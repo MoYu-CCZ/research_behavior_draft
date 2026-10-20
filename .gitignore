@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.figure_deps/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+research_rl_handoff/results_reproduced/

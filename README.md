@@ -25,26 +25,18 @@
 ## 目录
 
 ```text
-research_rl_handoff/                 完整 Python 源文件及环境测试
-  time_experiment.py                最终实验入口：搜索、训练、评价、敏感性回放
-  results_time_aware_v3/             最终结果、逐回合数据、日程与三个 Q 表
-  results_grace/fixed_ontime_plan.json    历史对照计划（入口运行依赖）
-  results_time_aware/selected_plan.json   历史对照计划（入口运行依赖）
-paper/
-  research_behavior_draft_v3.tex     当前本地论文版本
-  LOGO1.png、LOGO2.png               排版资源
-  figures/                          最终选用的配图系列、绘图脚本和数据
-    monochrome_revision/            黑白时间轴与背景简笔画
-    group2_schedules_blue/          六种策略的蓝色作息热图
-    group3_progress_multicolor/     多色进度对比
-    group4_state_changes/           疲劳、心情、焦虑、导师满意度
-  README.md                         论文编译与待补文件说明
-docs/TIME_ANALYSIS_V3.md             最终参数订正、方法及结果说明
-template_reference/                 用户提供的原始中文 LaTeX 模板参考
-verify_release.py                   参数、结果与代表性轨迹验证
-MANIFEST.sha256                     整理时文件校验清单
+research_rl_handoff/                 算法源码、环境测试、历史对照计划
+  time_experiment.py                最终实验入口
+  results_time_aware_v3/             最终结果、日程、逐回合数据和三个 Q 表
+research_behavior_draft_v3.tex       已上传论文源码
+shit_v3.pdf                         已上传论文 PDF
+figures/                            配图、绘图脚本与源数据
+docs/TIME_ANALYSIS_V3.md             最终参数和结果说明
+template_reference/                 原始 LaTeX 模板参考
 requirements.txt                    Python 依赖
-.gitignore                         本地环境与 LaTeX 中间文件排除规则
+verify_release.py                   参数、结果与代表性轨迹验证
+MANIFEST.sha256                     仓库文件校验清单
+.gitignore                          本地缓存与编译中间文件排除规则
 ```
 
 完整 Python 源码包含历史探索脚本，但论文结果以 `time_experiment.py` 和 `results_time_aware_v3` 为准。历史实验的全部输出、旧论文、缓存、第三方安装目录与重复压缩包未收录；部分历史脚本依赖未收录的旧结果，不属于本 README 的最终复现流程。
@@ -118,10 +110,10 @@ python time_experiment.py --outdir results_reproduced
 生成配图的命令在仓库根目录运行：
 
 ```bash
-python paper/figures/monochrome_revision/generate_revision.py
-python paper/figures/group2_schedules_blue/generate_heatmaps_blue.py
-python paper/figures/group3_progress_multicolor/generate_progress_multicolor.py
-python paper/figures/group4_state_changes/generate_state_changes.py
+python figures/monochrome_revision/generate_revision.py
+python figures/group2_schedules_blue/generate_heatmaps_blue.py
+python figures/group3_progress_multicolor/generate_progress_multicolor.py
+python figures/group4_state_changes/generate_state_changes.py
 ```
 
 当前绘图脚本沿用 Windows 字体路径 `C:/Windows/Fonts/msyh.ttc`。其他系统需要安装可用中文字体，并调整脚本中的 `FONT` 或 `font_path` 后运行。已生成 PNG 和 SVG 可直接查看；SVG文字已转为路径。绘图脚本会覆盖各自目录的配图及数据，请在需要重新生成时使用。

@@ -3,7 +3,7 @@ from pathlib import Path
 import sys,json,csv
 HERE=Path(__file__).resolve().parent
 PAPER=HERE.parent.parent
-PROJECT=PAPER.parent
+PROJECT=PAPER if (PAPER/'research_rl_handoff').is_dir() else PAPER.parent
 sys.path.insert(0,str(PAPER/'.figure_deps'))
 sys.path.insert(0,str(PROJECT/'research_rl_handoff'))
 import matplotlib

@@ -1,0 +1,436 @@
+{
+  "previous_time_aware_fixed": {
+    "completion_rate": 1,
+    "on_time_rate": 1,
+    "mean_cost": 7.2050999999999945,
+    "mean_days": 28.0,
+    "mean_delay_days": 0,
+    "components": {
+      "fatigue": 6.209999999999994,
+      "anxiety": 0.9951000000000007,
+      "low_mood": 0.0,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 88.74,
+    "mean_final_mood": 31,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.35714285714285715,
+        "宿舍": 0.32142857142857145,
+        "健身房": 0.32142857142857145
+      },
+      "afternoon": {
+        "实验室": 0.9285714285714286,
+        "宿舍": 0.07142857142857142,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 0.39285714285714285,
+        "宿舍": 0.2857142857142857,
+        "健身房": 0.32142857142857145
+      }
+    }
+  },
+  "original_fixed": {
+    "completion_rate": 1,
+    "on_time_rate": 1,
+    "mean_cost": 49.209999999999994,
+    "mean_days": 22.666666666666668,
+    "mean_delay_days": 0,
+    "components": {
+      "fatigue": 4.829999999999999,
+      "anxiety": 2.580000000000001,
+      "low_mood": 41.79999999999999,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 99.18,
+    "mean_final_mood": 0,
+    "action_distribution": {
+      "morning": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      },
+      "afternoon": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 0.0,
+        "宿舍": 1.0,
+        "健身房": 0.0
+      }
+    }
+  },
+  "old_optimized_fixed": {
+    "completion_rate": 1,
+    "on_time_rate": 0,
+    "mean_cost": 85.9728,
+    "mean_days": 30.333333333333332,
+    "mean_delay_days": 3,
+    "components": {
+      "fatigue": 48.793699999999994,
+      "anxiety": 5.364300000000001,
+      "low_mood": 22.000000000000004,
+      "low_energy": 9.814800000000002
+    },
+    "failed": 0,
+    "mean_final_mentor": 2.42,
+    "mean_final_mood": 4,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.6451612903225806,
+        "宿舍": 0.03225806451612903,
+        "健身房": 0.3225806451612903
+      },
+      "afternoon": {
+        "实验室": 0.03333333333333333,
+        "宿舍": 0.6333333333333333,
+        "健身房": 0.3333333333333333
+      },
+      "evening": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      }
+    }
+  },
+  "simple_no_afternoon_rest": {
+    "completion_rate": 1,
+    "on_time_rate": 1,
+    "mean_cost": 6.263799999999997,
+    "mean_days": 27.333333333333332,
+    "mean_delay_days": 0,
+    "components": {
+      "fatigue": 5.6199999999999966,
+      "anxiety": 0.6438000000000004,
+      "low_mood": 0.0,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 95.22,
+    "mean_final_mood": 56,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.6785714285714286,
+        "宿舍": 0.0,
+        "健身房": 0.32142857142857145
+      },
+      "afternoon": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 0.0,
+        "宿舍": 0.6666666666666666,
+        "健身房": 0.3333333333333333
+      }
+    }
+  },
+  "new_ontime_fixed": {
+    "completion_rate": 1,
+    "on_time_rate": 1,
+    "mean_cost": 6.183799999999998,
+    "mean_days": 27.666666666666668,
+    "mean_delay_days": 0,
+    "components": {
+      "fatigue": 5.539999999999997,
+      "anxiety": 0.6438000000000004,
+      "low_mood": 0.0,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 93.32,
+    "mean_final_mood": 54,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.6428571428571429,
+        "宿舍": 0.03571428571428571,
+        "健身房": 0.32142857142857145
+      },
+      "afternoon": {
+        "实验室": 0.9642857142857143,
+        "宿舍": 0.03571428571428571,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 0.037037037037037035,
+        "宿舍": 0.6296296296296297,
+        "健身房": 0.3333333333333333
+      }
+    }
+  },
+  "new_min_cost_fixed": {
+    "completion_rate": 1,
+    "on_time_rate": 0,
+    "mean_cost": 5.505099999999997,
+    "mean_days": 34.666666666666664,
+    "mean_delay_days": 7,
+    "components": {
+      "fatigue": 3.5599999999999965,
+      "anxiety": 1.9451000000000007,
+      "low_mood": 0.0,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 3.62,
+    "mean_final_mood": 58,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.0,
+        "宿舍": 1.0,
+        "健身房": 0.0
+      },
+      "afternoon": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 0.3235294117647059,
+        "宿舍": 0.0,
+        "健身房": 0.6764705882352942
+      }
+    }
+  },
+  "morning_dorm_fixed": {
+    "completion_rate": 1,
+    "on_time_rate": 1,
+    "mean_cost": 58.4558,
+    "mean_days": 24.0,
+    "mean_delay_days": 0,
+    "components": {
+      "fatigue": 3.7399999999999998,
+      "anxiety": 2.715800000000001,
+      "low_mood": 52.0,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 65.6,
+    "mean_final_mood": 0,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.0,
+        "宿舍": 1.0,
+        "健身房": 0.0
+      },
+      "afternoon": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      }
+    }
+  },
+  "min_cost_penalty_1": {
+    "completion_rate": 1,
+    "on_time_rate": 0,
+    "mean_cost": 5.505099999999997,
+    "mean_days": 34.666666666666664,
+    "mean_delay_days": 7,
+    "components": {
+      "fatigue": 3.5599999999999965,
+      "anxiety": 1.9451000000000007,
+      "low_mood": 0.0,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 3.62,
+    "mean_final_mood": 65,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.0,
+        "宿舍": 1.0,
+        "健身房": 0.0
+      },
+      "afternoon": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 0.3235294117647059,
+        "宿舍": 0.0,
+        "健身房": 0.6764705882352942
+      }
+    }
+  },
+  "min_cost_penalty_4": {
+    "completion_rate": 1,
+    "on_time_rate": 0,
+    "mean_cost": 5.505099999999997,
+    "mean_days": 34.666666666666664,
+    "mean_delay_days": 7,
+    "components": {
+      "fatigue": 3.5599999999999965,
+      "anxiety": 1.9451000000000007,
+      "low_mood": 0.0,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 3.62,
+    "mean_final_mood": 44,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.0,
+        "宿舍": 1.0,
+        "健身房": 0.0
+      },
+      "afternoon": {
+        "实验室": 1.0,
+        "宿舍": 0.0,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 0.3235294117647059,
+        "宿舍": 0.0,
+        "健身房": 0.6764705882352942
+      }
+    }
+  },
+  "new_warm_rl": {
+    "completion_rate": 1,
+    "on_time_rate": 1,
+    "mean_cost": 6.183799999999998,
+    "mean_days": 27.666666666666668,
+    "mean_delay_days": 0,
+    "components": {
+      "fatigue": 5.539999999999997,
+      "anxiety": 0.6438000000000004,
+      "low_mood": 0.0,
+      "low_energy": 0.0
+    },
+    "failed": 0,
+    "mean_final_mentor": 93.32,
+    "mean_final_mood": 54,
+    "action_distribution": {
+      "morning": {
+        "实验室": 0.6428571428571429,
+        "宿舍": 0.03571428571428571,
+        "健身房": 0.32142857142857145
+      },
+      "afternoon": {
+        "实验室": 0.9642857142857143,
+        "宿舍": 0.03571428571428571,
+        "健身房": 0.0
+      },
+      "evening": {
+        "实验室": 0.037037037037037035,
+        "宿舍": 0.6296296296296297,
+        "健身房": 0.3333333333333333
+      }
+    },
+    "per_seed": [
+      {
+        "seed": 42,
+        "completion_rate": 1,
+        "on_time_rate": 1,
+        "mean_cost": 6.183799999999998,
+        "mean_days": 27.666666666666668,
+        "mean_delay_days": 0,
+        "components": {
+          "fatigue": 5.539999999999997,
+          "anxiety": 0.6438000000000004,
+          "low_mood": 0.0,
+          "low_energy": 0.0
+        },
+        "failed": 0,
+        "mean_final_mentor": 93.32,
+        "mean_final_mood": 54,
+        "action_distribution": {
+          "morning": {
+            "实验室": 0.6428571428571429,
+            "宿舍": 0.03571428571428571,
+            "健身房": 0.32142857142857145
+          },
+          "afternoon": {
+            "实验室": 0.9642857142857143,
+            "宿舍": 0.03571428571428571,
+            "健身房": 0.0
+          },
+          "evening": {
+            "实验室": 0.037037037037037035,
+            "宿舍": 0.6296296296296297,
+            "健身房": 0.3333333333333333
+          }
+        }
+      },
+      {
+        "seed": 43,
+        "completion_rate": 1,
+        "on_time_rate": 1,
+        "mean_cost": 6.183799999999998,
+        "mean_days": 27.666666666666668,
+        "mean_delay_days": 0,
+        "components": {
+          "fatigue": 5.539999999999997,
+          "anxiety": 0.6438000000000004,
+          "low_mood": 0.0,
+          "low_energy": 0.0
+        },
+        "failed": 0,
+        "mean_final_mentor": 93.32,
+        "mean_final_mood": 54,
+        "action_distribution": {
+          "morning": {
+            "实验室": 0.6428571428571429,
+            "宿舍": 0.03571428571428571,
+            "健身房": 0.32142857142857145
+          },
+          "afternoon": {
+            "实验室": 0.9642857142857143,
+            "宿舍": 0.03571428571428571,
+            "健身房": 0.0
+          },
+          "evening": {
+            "实验室": 0.037037037037037035,
+            "宿舍": 0.6296296296296297,
+            "健身房": 0.3333333333333333
+          }
+        }
+      },
+      {
+        "seed": 44,
+        "completion_rate": 1,
+        "on_time_rate": 1,
+        "mean_cost": 6.183799999999998,
+        "mean_days": 27.666666666666668,
+        "mean_delay_days": 0,
+        "components": {
+          "fatigue": 5.539999999999997,
+          "anxiety": 0.6438000000000004,
+          "low_mood": 0.0,
+          "low_energy": 0.0
+        },
+        "failed": 0,
+        "mean_final_mentor": 93.32,
+        "mean_final_mood": 54,
+        "action_distribution": {
+          "morning": {
+            "实验室": 0.6428571428571429,
+            "宿舍": 0.03571428571428571,
+            "健身房": 0.32142857142857145
+          },
+          "afternoon": {
+            "实验室": 0.9642857142857143,
+            "宿舍": 0.03571428571428571,
+            "健身房": 0.0
+          },
+          "evening": {
+            "实验室": 0.037037037037037035,
+            "宿舍": 0.6296296296296297,
+            "健身房": 0.3333333333333333
+          }
+        }
+      }
+    ]
+  }
+}

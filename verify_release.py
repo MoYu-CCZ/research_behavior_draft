@@ -59,7 +59,8 @@ for seed in settings['train_seeds']:
     result = simulate_one_episode(agent, seed=ENV_SEED, weeks=4, total_work=48, **settings['options'])
     check_replay('new_warm_rl', result, seed)
 print('PASS: final parameters, six-strategy aggregates, five fixed-policy and three Q-table representative replays.')
-tex = (ROOT / 'paper' / 'research_behavior_draft_v3.tex').read_text(encoding='utf-8-sig')
+PAPER = ROOT / 'paper' if (ROOT / 'paper' / 'research_behavior_draft_v3.tex').is_file() else ROOT
+tex = (PAPER / 'research_behavior_draft_v3.tex').read_text(encoding='utf-8-sig')
 missing = [name for name in re.findall(r'\\includegraphics(?:\[[^\]]*\])?\{([^}]+)\}', tex)
-           if not (ROOT / 'paper' / name).is_file()]
+           if not (PAPER / name).is_file()]
 print('Paper assets pending: ' + ', '.join(sorted(set(missing))) if missing else 'All referenced paper assets present.')
